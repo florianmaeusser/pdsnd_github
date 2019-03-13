@@ -12,4 +12,4 @@ data files used: chicago.csv, new_york_city.csv, washington.csv
 code file used: bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+bikeshare company: https://www.motivateco.com
